@@ -8,6 +8,7 @@ the projec was my final year project called Design and implementaion of a comput
 
 technologies previously used:
 code igniter 
+laragon
 html, css, javascript.
 sql, phpmyadmin
 
